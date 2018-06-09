@@ -1,0 +1,29 @@
+body {
+    font-family: Helvetica;
+    text-align: center;
+    font-size: 14px;
+}
+
+nav {
+    font-size: 18px;
+    color: white;
+}
+
+
+
+h1, h2, h3 {
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 70px;
+    color: white;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+h3 {
+    font-size: 23px;
+}
