@@ -34,3 +34,20 @@ h3 {
     background-size: cover;
 
 }
+
+.footer {
+    text-align: left;
+    background-color: dimgray;
+    color: white;
+}
+
+#copyright {
+    font-size: 11px;
+}
+
+.imgbgr {
+    
+    background: url(../images/the-flatiron-building.png);
+    
+    color: white;
+}
